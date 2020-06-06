@@ -17,7 +17,7 @@ We used Stratified K-fold method to reduce the variance in the model.
 Jacaard metric is used to evaluate the model.Jacaard metric is quiet similar to IOU in computer vision.To know more about the jaccard metric ,I strongly suggest you to take a look at this awesomely written [medium](https://towardsdatascience.com/overview-of-text-similarity-metrics-3397c4601f50) post.
 ## Results:
 ### XLNET RESULTS:
- !['negative'](https://github.com/mano3-1/Sentiment-Extraction-from-tweets/blob/master/results/xlnet1.PNG)<br/>
- !['positive'](https://github.com/mano3-1/Sentiment-Extraction-from-tweets/blob/master/results/xlnet2.PNG)<br/>
- !['positive'](https://github.com/mano3-1/Sentiment-Extraction-from-tweets/blob/master/results/xlnet3.PNG)<br/>
- !['neutral'](https://github.com/mano3-1/Sentiment-Extraction-from-tweets/blob/master/results/xlnet4.PNG)<br/>
+ !["negative"](https://github.com/mano3-1/Sentiment-Extraction-from-tweets/blob/master/results/xlnet1.PNG)<br/>
+ !["positive"](https://github.com/mano3-1/Sentiment-Extraction-from-tweets/blob/master/results/xlnet2.PNG)<br/>
+ !["positive"](https://github.com/mano3-1/Sentiment-Extraction-from-tweets/blob/master/results/xlnet3.PNG)<br/>
+ !["neutral"](https://github.com/mano3-1/Sentiment-Extraction-from-tweets/blob/master/results/xlnet4.PNG)<br/>
