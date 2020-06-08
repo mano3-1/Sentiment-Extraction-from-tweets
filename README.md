@@ -24,3 +24,11 @@ Positive : <br/>
  !["positive"](https://github.com/mano3-1/Sentiment-Extraction-from-tweets/blob/master/results/xlnet3.PNG)<br/>
 Neutral : <br/>
  !["neutral"](https://github.com/mano3-1/Sentiment-Extraction-from-tweets/blob/master/results/xlnet4.PNG)<br/>
+ ### Roberta RESULTS:
+ Negative : <br/>
+ !["negative"](https://github.com/mano3-1/Sentiment-Extraction-from-tweets/blob/master/results/roBERTa1.PNG)<br/>
+Positive : <br/>
+ !["positive"](https://github.com/mano3-1/Sentiment-Extraction-from-tweets/blob/master/results/roBERTa2.PNG)<br/>
+ !["positive"](https://github.com/mano3-1/Sentiment-Extraction-from-tweets/blob/master/results/roBERTa3.PNG)<br/>
+Neutral : <br/>
+ !["neutral"](https://github.com/mano3-1/Sentiment-Extraction-from-tweets/blob/master/results/roBERTa4.PNG)<br/>
