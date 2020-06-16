@@ -1,5 +1,5 @@
 # Sentiment-Extraction-from-tweets
-The main goal of this repository is to obtain the phrases or words from a given sentence which strongly agree to the corresponding sentiment.
+The main goal of this repository is to obtain the phrases or words from a given sentence which strongly agree to the corresponding sentiment. For a detailed information about the tweet sentiment extraction problem and XLNet I strongly suggest [this medium post](https://medium.com/analytics-vidhya/finetuning-a-xlnet-for-sentiment-extraction-9e75ded91f1c) written by me.
 ## What is sentiment extraction?
 Sentiment extraction is natural language processing task where a sentence and it's corresponding sentiment(whether it is a positive or negaitve or neutral sentence) will be given and model is supposed to extract phrases or set of words which strongly support the given sentiment.
 ## About Data and Task
